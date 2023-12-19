@@ -1,0 +1,36 @@
+/* styles.css */
+
+.navbar-container {
+    border-radius: 8px;
+    background-color: #2c3e50;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-link {
+    color: #ecf0f1;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.navbar-link:hover {
+    background-color: #34495e;
+}
+
+.navbar-button {
+    background-color: #e74c3c;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.navbar-button:hover {
+    background-color: #c0392b;
+}

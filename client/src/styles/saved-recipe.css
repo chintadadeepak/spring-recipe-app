@@ -1,0 +1,54 @@
+/* styles.css */
+
+/* Add styling for the Home component */
+.saved-recipe-container {
+    max-width: 800px;
+    margin: 20px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* styles.css */
+
+/* Add styling for h1 and h2 in the Home component */
+.saved-recipe-container h1 {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.recipe-item h2 {
+    font-size: 20px;
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+/* Add additional styling as needed */
+
+.recipe-item {
+    list-style: none;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-item h2 {
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+.recipe-item img {
+    border-radius: 8px;
+    max-height: 45%;
+    max-width: 50%;
+    height: auto;
+    margin: 10px 0px;
+}
+
+.recipe-item p {
+    margin-bottom: 10px;
+}
+
+/* Add additional styling as needed */
